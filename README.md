@@ -2,6 +2,7 @@
 
 This is an example node.js project that uses [vows](http://vowsjs.org) and
 travis-ci.org for continuous integration.
+Just for testing.
 
 ## Usage
 
